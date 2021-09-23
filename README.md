@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Messi238283
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Messi238283/Messi238283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1 #Music-Discord-bot
+2 hello, i'm meçi, my creator i create for servers i want music bots and i'm here for that 
+3 (prefix)play (your yotube link here)
+4 (prefix)Skip !
+5 (prefix) stop !
